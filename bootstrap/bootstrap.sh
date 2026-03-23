@@ -7,7 +7,7 @@
 
 set -e
 
-REPO_URL="https://github.com/your-user/homelab-base.git"
+REPO_URL="https://github.com/andresvidoza/homelab-base.git"
 REPO_DIR="/opt/homelab-base"
 
 # Update package cache and install dependencies
