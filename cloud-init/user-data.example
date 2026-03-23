@@ -31,5 +31,5 @@ packages:
 
 # Run the bootstrap script from the cloned repository
 runcmd:
-  - [ sh, -c, "git clone https://github.com/your-user/homelab-base.git /opt/homelab-base" ]
+  - [ sh, -c, "git clone https://github.com/andresvidoza/homelab-base.git /opt/homelab-base" ]
   - [ sh, -c, "cd /opt/homelab-base && ./bootstrap/first-boot.sh" ]
